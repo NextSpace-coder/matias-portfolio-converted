@@ -31,11 +31,11 @@ const Contact = () => {
                 <h4 className="mb-30">Feel free to contact me anytime</h4>
                 <div className="contact__item mb-20">
                   <span className="he1">Email</span>
-                  <a href="#0">davidmatias333@gmail.com</a>
+                  <a href="#0">contact@example.com</a>
                 </div>
                 <div className="contact__item mb-20">
                   <span className="he1">Phone</span>
-                  <a href="#0">+(2) 871 382 023</a>
+                  <a href="#0">+1 (555) 123-4567</a>
                 </div>
                 <div className="contact__item">
                   <span className="he1">Address</span>
